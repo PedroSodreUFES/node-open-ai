@@ -1,1 +1,1 @@
-# node-open-ai
+# Criação de API linkada com OpenAi
